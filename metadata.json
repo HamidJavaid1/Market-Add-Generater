@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Material Generator",
+  "description": "Describe a product and imagine it across different advertisement mediums such as billboards, newspapers, and social media with product consistency and no people, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
